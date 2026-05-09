@@ -21,7 +21,7 @@
 
 ### 1. Клонирование репозитория
 
-git clone https://github.com/yourusername/urlshortener.git
+git clone https://github.com/TheLonger011/urlshort.git
 cd urlshortener
 
 ### 2. Настройка
@@ -61,7 +61,7 @@ URL shortening service written in Go with a web interface.
 
 ### 1. Clone the repository
 
-git clone https://github.com/yourusername/urlshortener.git
+git clone https://github.com/TheLonger011/urlshort.git
 cd urlshortener
 
 ### 2. Configuration
